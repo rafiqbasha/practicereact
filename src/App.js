@@ -1,8 +1,8 @@
 import './App.css';
-
+import About from './components/About';
 function App() {
   return (
-   <h1>hello welcome to world first</h1>
+   <About/>
   );
 }
 
